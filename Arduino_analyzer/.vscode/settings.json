@@ -3,6 +3,8 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "D://Programmazione/VisualStudio/Arduino/Arduino_analyzer/src/jSerialComm-2.11.0.jar"
+        "D://Programmazione/VisualStudio/Arduino/Arduino_analyzer/src/jSerialComm-2.11.0.jar",
+        "d:\\Programmazione\\VisualStudio\\settings\\jfreechart-1.0.19\\jfreechart-1.0.19\\lib\\jcommon-1.0.23.jar",
+        "d:\\Programmazione\\VisualStudio\\settings\\jfreechart-1.0.19\\jfreechart-1.0.19\\lib\\jfreechart-1.0.19.jar"
     ]
 }
